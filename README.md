@@ -24,3 +24,15 @@ First ensure you are at the directory with the manage.py file, then run
 
 ## Visit the docs
 http://127.0.0.1:8000/docs/
+
+## Visit the admin page
+http://127.0.0.1:8000/admin/
+
+## Database Schema Used
+https://drawsql.app/teams/report/diagrams/data2bots
+
+## Notes
+1. Admin user exist with the credential: *email: admin@mail.com password: admin123*
+2. Some dummy products are already created 
+3. Some dummy payments also already exists
+4. some dummy order history also exist
